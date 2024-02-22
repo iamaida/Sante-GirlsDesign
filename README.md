@@ -27,6 +27,6 @@ This web app allows a homecare company to manage information relative to its car
   - Django
   - VueJS
 
-# Take a look to the Home Page
+# Take a look at the login page
 
 ![login page](multimedia/Sante.webp)
